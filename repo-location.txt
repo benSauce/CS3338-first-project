@@ -1,0 +1,5 @@
+Github repo link:
+https://github.com/benSauce/CS3338-first-project
+
+local directory:
+/Users/bsauce/Development/CS_3338/first-project
